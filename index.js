@@ -21,7 +21,7 @@ function fILEopenMirorBlack() {
   console.log('Loading')
    wait(1.5)
    console.log('FILE "BlackMirror" open')
-  document.write('<title>Файлы покупки</title><link rel="stylesheet" href="index.css"><img src="Mirrorcolorblack.png">');
+  document.write('<title>Файлы покупки</title><link rel="stylesheet" href="index.css"><img src="black.png">');
   }
 function FILEopenMirrorRed() {
    console.log('Loading')
